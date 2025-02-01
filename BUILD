@@ -1,3 +1,4 @@
-exports_files(["llvm.tar.xz"])
-
-exports_files(["libclang-libs.tar.xz"])
+exports_files([
+    "llvm.tar.xz",
+    "libclang-libs.tar.xz",
+])
