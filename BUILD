@@ -1,5 +1,5 @@
 exports_files([
-    "clang-21.tar.xz",
+    "clang.tar.xz",
     "lld.tar.xz",
     "llvm-ar.tar.xz",
     "llvm-objcopy.tar.xz",
